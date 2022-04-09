@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167426807128",
+    "project_id": "cheese-and-vine-lounge",
+    "storage_bucket": "cheese-and-vine-lounge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167426807128:android:df1834598459905526c12d",
+        "android_client_info": {
+          "package_name": "fr.johan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167426807128-2andbk208mocvm8dh9om7jeam2pnksoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBfe7NOpd37tfGerLA0bJxbM7ggEDREVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167426807128-2andbk208mocvm8dh9om7jeam2pnksoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

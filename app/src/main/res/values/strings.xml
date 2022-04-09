@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Vine and cheese Lounge</string>
+
+
+    <!-- Page d'accueil -->
+    <string name="home_page_title">A découvrir</string>
+    <string name="home_page_last_vine">Les derniers vins </string>
+
+
+    <!-- Page de collection-->
+    <string name="collection_page_title">Ma collection</string>
+
+    <!-- Page d'ajout de vins-->
+    <string name="add_vin_page_title">Ajout d\'un vin</string>
+    <string name="add_vin_page_upload_button">@string/item_vin_name</string>
+    <string name="add_vin_page_description_imput">@string/item_vin_description</string>
+
+    <string-array name="add_vin_page_acidity_imput">
+        <item>Acidité faible </item>
+        <item>Acidité moyenne</item>
+        <item>Acidité forte </item>
+    </string-array>
+
+    <string-array name="add_vin_page_niveau_de_sucre_imput">
+        <item>Niveau de sucre faible </item>
+        <item>Niveau de sucre moyen</item>
+        <item>Niveau de sucre fort </item>
+    </string-array>
+
+    <string-array name="add_vin_page_tanin_imput">
+        <item>Tanin faible </item>
+        <item>Tanin moyen</item>
+        <item>Tanin fort </item>
+    </string-array>
+
+    <string name="add_vine_page_confirm_button">Confirmer</string>
+
+    <!-- Fenetre popop-up du détails des vins-->
+    <string name="popup_vin_name">Nom du vin</string>
+    <string name="popup_vin_description_title">Description</string>
+    <string name="popup_vin_description_subttitle">Petite description</string>
+    <string name="popup_vin_acidity_title">Acidité</string>
+    <string name="popup_vin_acidity_subttitle">Acidité_faible</string>
+    <string name="popup_vin_niveau_de_sucre_faible_title">Niveau de sucre</string>
+    <string name="popup_vin_niveau_de_sucre_faible_subtitle">Niveau de sucre faible </string>
+    <string name="popup_vin_tanin_description">Tanin</string>
+    <string name="popup_vin_tanin_subtitle">Tanin faible </string>
+
+    <!-- Vin & cheese customise -->
+    <string name="item_vin_name">Nom du vin</string>
+    <string name="item_vin_description">Description du vin</string>
+
+</resources>
